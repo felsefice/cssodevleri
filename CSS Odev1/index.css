@@ -1,0 +1,27 @@
+.main-div{
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.ul1-O>li{
+     
+    display: inline-block; padding: 5px; margin-top: 5px; margin-right:30px ;
+}
+
+.h1-O{
+    color: aqua;
+}
+
+.h3-O{
+    color:#90DCA5;
+}
+
+.h4-O{
+    color:#23E658
+}
+.p-div{
+    font-family: cursive;
+}
+.price{
+    font-weight: bold;
+}
