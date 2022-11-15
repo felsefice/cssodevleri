@@ -1,0 +1,32 @@
+ .main-div{
+    text-align: center;
+}
+
+.table-div table{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.first-th{
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.first-td{
+    text-align: center;
+    width: 40%;
+    background-color: #7EE5DA;
+}
+
+.second-td{
+    text-align: center;
+    width: 20%;
+    background-color: #70CCC2; 
+}
+
+.third-td{
+    text-align: center;
+    width: 40%;
+    background-color: #62B3AA;  
+}
